@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RAM",
+  "universe": "WIIU · The RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The RAM:WIIU:888aff⟧",
+  "carbon": "the-wiiu-ram.carbon.tiff (TIFF)",
+  "silicon": "the-wiiu-ram.silicon.png (PNG)",
+  "seal_sha256": "31d51dce4731f50756a38b7ed81a281fbecc7f5f33627e3e591a72bae55665f4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

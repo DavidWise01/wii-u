@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Espresso",
+  "universe": "WIIU · The Espresso (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Espresso:WIIU:217b63⟧",
+  "carbon": "the-wiiu-espresso.carbon.tiff (TIFF)",
+  "silicon": "the-wiiu-espresso.silicon.png (PNG)",
+  "seal_sha256": "7d0c17c15a353932cc8f676c1e1e5a3cccce754389025ca18ca8c3acf2b0dc8c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Latte GPU
+node WIIU · WIIU · ⟦The Latte GPU:WIIU:879395⟧
+
+WHO   — The Latte GPU — AMD graphics + eDRAM · electrical
+WHAT  — AMD graphics + eDRAM · electrical
+WHERE — WIIU · NINTENDO WII U (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An AMD 'Latte' GPU with embedded memory driving the Wii U's HD output — competent, not cutting-edge.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  AMD graphics + eDRAM · electrical
+
+spoken token : zom-graex-lin   ·   hex : 879395
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Wii Compatibility",
+  "universe": "WIIU · Wii Compatibility (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦Wii Compatibility:WIIU:579a8c⟧",
+  "carbon": "the-wiiu-compat.carbon.tiff (TIFF)",
+  "silicon": "the-wiiu-compat.silicon.png (PNG)",
+  "seal_sha256": "3c2b00506a14b8bbeaab9d565082303b1e4d9ed1bc6cda0936112a4a9a78d1f4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

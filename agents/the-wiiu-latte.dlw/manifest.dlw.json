@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Latte GPU",
+  "universe": "WIIU · The Latte GPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Latte GPU:WIIU:879395⟧",
+  "carbon": "the-wiiu-latte.carbon.tiff (TIFF)",
+  "silicon": "the-wiiu-latte.silicon.png (PNG)",
+  "seal_sha256": "073fd12cf8f791d574d393a0a755569a21dd32f863d2da74d66d858576457678",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

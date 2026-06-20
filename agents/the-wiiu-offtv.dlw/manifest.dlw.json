@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Off-TV Play",
+  "universe": "WIIU · Off-TV Play (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦Off-TV Play:WIIU:393b73⟧",
+  "carbon": "the-wiiu-offtv.carbon.tiff (TIFF)",
+  "silicon": "the-wiiu-offtv.silicon.png (PNG)",
+  "seal_sha256": "b65965e1fa359620f8cca5f5a8e2d337f89c5828df5f23753e06d0d84f487d55",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

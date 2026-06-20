@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NINTENDO WII U",
+  "universe": "WIIU · NINTENDO WII U (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦NINTENDO WII U:WIIU:7fc473⟧",
+  "carbon": "wii-u.carbon.tiff (TIFF)",
+  "silicon": "wii-u.silicon.png (PNG)",
+  "seal_sha256": "d5616481e8a929c7de6f850ca2ccacbbd86fbdb5d72b23eb7784b8075fcddf7d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

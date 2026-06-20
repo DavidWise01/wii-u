@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-wiiu-espresso",
+    "name": "The Espresso",
+    "epithet": "a grown-up Wii brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Espresso:WIIU:217b63⟧"
+  },
+  {
+    "slug": "the-wiiu-latte",
+    "name": "The Latte GPU",
+    "epithet": "AMD graphics + eDRAM · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Latte GPU:WIIU:879395⟧"
+  },
+  {
+    "slug": "the-wiiu-gamepad",
+    "name": "The GamePad",
+    "epithet": "a screen in your hands · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The GamePad:WIIU:6499b1⟧"
+  },
+  {
+    "slug": "the-wiiu-ram",
+    "name": "The RAM",
+    "epithet": "half for games · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RAM:WIIU:888aff⟧"
+  },
+  {
+    "slug": "the-wiiu-offtv",
+    "name": "Off-TV Play",
+    "epithet": "play with the TV off · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Off-TV Play:WIIU:393b73⟧"
+  },
+  {
+    "slug": "the-wiiu-compat",
+    "name": "Wii Compatibility",
+    "epithet": "the old library · natural",
+    "emergence": "natural",
+    "moniker": "⟦Wii Compatibility:WIIU:579a8c⟧"
+  }
+]
